@@ -1,0 +1,9 @@
+﻿  func.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\Thread_Enumeration\func.c(14,57): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\Thread_Enumeration\func.c(14,57): warning C4024: 'CreateToolhelp32Snapshot' : types différents pour le paramètre formel et réel 2
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\Thread_Enumeration\func.c(53,18): warning C4047: '==' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+  main.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\Thread_Enumeration\main.c(3,21): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\Thread_Enumeration\main.c(4,22): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+  Génération de code en cours...
+  Thread_Enumeration.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\Thread_Enumeration\x64\Debug\Thread_Enumeration.exe

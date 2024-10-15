@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\remote_Thread_Enum\remote_Thread_Enum\main.c(4,21): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\remote_Thread_Enum\remote_Thread_Enum\main.c(5,21): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\remote_Thread_Enum\remote_Thread_Enum\main.c(21,75): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD *' et de 'HANDLE *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\remote_Thread_Enum\remote_Thread_Enum\main.c(21,75): warning C4024: 'remoteThreadEnum' : types différents pour le paramètre formel et réel 4
+  remote_Thread_Enum.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\remote_Thread_Enum\x64\Debug\remote_Thread_Enum.exe
